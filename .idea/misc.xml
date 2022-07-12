@@ -12,7 +12,7 @@
         <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2604166666666667" />
         <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.290625" />
         <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/drawable/pb_dawable_1.xml" value="0.290625" />
-        <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/layout/activity_main.xml" value="0.31654676258992803" />
         <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/mipmap-anydpi-v26/Teste.xml" value="0.13958333333333334" />
         <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/mipmap-anydpi-v26/Teste2_round.xml" value="0.13958333333333334" />
         <entry key="..\:/Users/fakih/AndroidStudioProjects/Json4/app/src/main/res/mipmap-anydpi-v26/Teste_round.xml" value="0.2604166666666667" />
@@ -26,5 +26,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
   </component>
 </project>

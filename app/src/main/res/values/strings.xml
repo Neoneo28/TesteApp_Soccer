@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">Soccer</string>
-    <string name="Pos">Atacante</string>
     <string name="Name">Usúario de Teste</string>
+    <string name="Percentual">59.193</string>
+    <string name="Pos">Atacante</string>
     <string name="Country">Alemanha</string>
     <string name="todo">TODO</string>
-    <string name="copa_do_mundo_disputadas">Copa do Mundo Disputadas</string>
-    <string name="Percentual">59.193</string>
     <string name="copa_do_mundo_vencidas">Copa do Mundo Vencidas</string>
-    <string name="_4_0">4.0</string>
-    <string name="_1_0">1.0</string>
-    <string name="_2">2°</string>
-    <string name="_18">18°</string>
+    <string name="pla">1.0</string>
+    <string name="pOs">18°</string>
+    <string name="copa_do_mundo_disputadas">Copa do Mundo Disputadas</string>
+    <string name="pLa">4.0</string>
+    <string name="pos">2°</string>
 </resources>
